@@ -1,4 +1,4 @@
-# Threat Analysis Platform (TAP)
+# Threat Aggregation platform
 
 ![GitLeaks](https://img.shields.io/badge/protected%20by-gitleaks-blue)
 [![License](https://img.shields.io/github/license/snowkluster/tap)](./LICENSE)
@@ -226,9 +226,3 @@ Contributions are welcome! Please check the [TODO.md](TODO.md) file for areas th
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-## Authors
-
-- [@snowkluster](https://www.github.com/snowkluster)
-- [@aparna2573](https://github.com/aparna2573)
-- [@geetansh14](https://github.com/geetansh14)
