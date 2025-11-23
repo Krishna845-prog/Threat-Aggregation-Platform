@@ -1,0 +1,10 @@
+__pycache__
+env
+.env
+.venv
+venv
+*.csv
+*.json
+*.zip
+*.pdf
+node_modules
