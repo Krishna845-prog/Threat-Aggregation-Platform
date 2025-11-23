@@ -46,13 +46,6 @@ The system consists of multiple components:
 - **NGINX**: Reverse proxy for routing traffic to different services
 - **Docker**: Containerization for easy deployment and scaling
 
-### System Architecture
-
-![System Design](./images/System%20Design.png)
-
-## Dataset
-You can download the data that has already been scraped by the platform at [kaggle.com/snowkluster](https://www.kaggle.com/datasets/snowkluster/dark-web-posts/data)
-
 ## Getting Started
 
 ### Prerequisites
